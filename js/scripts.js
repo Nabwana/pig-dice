@@ -17,7 +17,7 @@ Player.prototype.rollDice = function() {
     this.runningTotal = 0;
   }
 }
-
+ //user interface logic//
 function randomNum() {
   return Math.floor(Math.random() * 6 + 1)
 }
