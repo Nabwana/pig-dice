@@ -1,3 +1,6 @@
 img{
   background-image: image();
 }
+.green{
+  button color: green;
+}
