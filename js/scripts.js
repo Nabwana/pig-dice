@@ -1,5 +1,5 @@
 // Business Logic
-function Player() {
+function Player(rollingTotal,totalScore) {
   this.rollingTotal = 0;
   this.totalScore = 0;
 }
