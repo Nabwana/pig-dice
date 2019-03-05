@@ -1,9 +1,7 @@
 img{
   background-image: image();
 }
-.green{
-  button color: green;
-}
+
 body{
   text-align: center;
   font-size: 30px;
