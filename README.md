@@ -1,4 +1,9 @@
+
+
+
 ##Pig Dice Game
+This is a gaming-website, 3/01/2019
+
 By Pascal Nabwana
 Description
 This web application allows two players to play a game of Pig Dice.
@@ -23,5 +28,15 @@ jQuery
 License
 This software is licensed under the MIT license.
 live link to my site:https://github.com/Nabwana/pig-dice
+##Support and contact details
+Feel free to follow me on Github, or to comment on my code if you encounter any issues, have questions or want to contribute to my code.
+License
+MIT License
 
-Copyright (c) 2019 Pascal Nabwana
+Copyright (c) [2019] Pascal Nabwana
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
