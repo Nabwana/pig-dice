@@ -18,10 +18,10 @@ Notes
 ##Technologies Used
 HTML
 CSS
-Bootstrap
 JavaScript
 jQuery
 License
 This software is licensed under the MIT license.
+live link to my site:https://github.com/Nabwana/pig-dice
 
 Copyright (c) 2019 Pascal Nabwana
