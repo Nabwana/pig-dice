@@ -21,7 +21,7 @@ Player.prototype.rollDice = function() {
 function randomNum() {
   return Math.floor(Math.random() * 6 + 1)
 }
-
+//user interface logic
 $(document).ready(function() {
 
 var player1 = new Player();
